@@ -6,19 +6,19 @@ Alle Grafiken sind als [png](png) und [pdf](pdf) verfügbar.
 
 ## Poster
 
-Neben den einzelnen Schritten gibt es auch **2 Poster**:
+Neben den einzelnen Schritten gibt es auch **2 Poster**
 
 ### Poster 1 
 
 [🖼png](png/Poster-1.png) [📄pdf](pdf/Poster-1.pdf): Alle Schritte getrennt voneinander in der Übersicht
 
-<img src="png/Poster-1.png" alt="Poster1" style="zoom:10%;" align="center"/>
+![Poster1](png/Poster-1.png)
 
 ### Poster 2 
 
 [🖼png](png/Poster-2.png) [📄pdf](pdf/Poster-2.pdf): Die Kategorien Private Kontakte, Einzelhandel, Sport Schritte übergreifen zusammengefasst
 
-<img src="png/Poster-2.png" alt="Poster2" style="zoom:10%;" align="center"/>
+![Poster2](png/Poster-2.png)
 
 ## Erklärung
 
@@ -26,7 +26,7 @@ Neben den einzelnen Schritten gibt es auch **2 Poster**:
 
 Um die Diagramme kompakt zu halten wurde der Text in ein paar Knoten abgekürzt oder es wurde Funktionalität zusammengefasst. Um dennoch den Regeln der Deutschen Bundesregierung getreu zu sein sind hier diese Knoten erklärt.
 
-<img src="png/Erklärung.png" alt="Erklärung" />
+![Erklärung](png/Erklärung.png)
 
 ## Notbremse
 
