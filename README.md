@@ -2,7 +2,7 @@
 
 oder kurz **Öffnung in 5 Flowchart**  ist eine Visualisierung des 'Öffnungsperspektive in fünf Schritten' Konzepts der Deutschen Bundesregierung
 
-Alle Grafiken sind als **png** und **pdf** verfügbar.
+Alle Grafiken sind als [png](png) und [pdf](pdf) verfügbar.
 
 Neben den einzelnen Schritten gibt es auch **2 Poster**:
 
