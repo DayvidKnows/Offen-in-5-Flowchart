@@ -21,7 +21,7 @@ Um die Diagramme kompakt zu halten wurde der Text in ein paar Knoten abgekürzt 
 
 [🖼png](png/Notbremse.png) [📄pdf](pdf/Notbremse.pdf)
 
-Ab dem **3. Öffnungsschritt** gibt es eine sogenannte Notbremse, die bei langanhalten, erhöhten Inzidenzwerten die Öffnung **zurücksetzt**.
+Ab dem **3. Öffnungsschritt** gibt es eine sogenannte **Notbremse**, die bei langanhalten, erhöhten Inzidenzwerten die Öffnung **zurücksetzt**.
 
 ![Notbremse](png/Notbremse.png)
 
@@ -73,11 +73,6 @@ Die **Notbremse** bleibt weiterhin.
 ![5.Öffnungschritt](png/Schritt-5.png)
 
 ## Quellen
-
-<<<<<<< HEAD
 - Artikel: [Öffnungsperspektive in fünf Schritten](https://www.bundesregierung.de/breg-de/aktuelles/fuenf-oeffnungsschritte-1872120)
 - Folien: [Bund-Länder-Beschluss vom 3. März 2021](https://www.bundesregierung.de/breg-de/suche/bund-laender-beschluss-vom-3-maerz-2021-1872664)
 - Beschluss: [Videoschaltkonferenz der Bundeskanzlerin mit den Regierungschefinnen und Regierungschefs der Länder am 3. März 2021](https://www.bundesregierung.de/resource/blob/975226/1872054/66dba48b5b63d8817615d11edaaed849/2021-03-03-mpk-data.pdf)
-=======
-![Notbremse](png/Notbremse.png)
->>>>>>> aec0595e32087ba37eb91051416abc670d69cf71
